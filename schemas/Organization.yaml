@@ -9,4 +9,4 @@ properties:
     type: string
     description: Name of the Organization
   thumbnail:
-    $ref: "#/schemas/Image"
+    $ref: Image.yaml

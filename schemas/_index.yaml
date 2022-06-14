@@ -1,5 +1,5 @@
 Amount:
-  $reg: Amount.yaml
+  $ref: Amount.yaml
 Batch:
   $ref: Batch.yaml
 Case:
